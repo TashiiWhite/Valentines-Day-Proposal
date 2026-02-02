@@ -47,7 +47,7 @@ body {
 
 .main-message {
     font-size: 30px;
-    margin-top: -10px;
+    margin-top: -7px;
 }
 
 .save-date {
@@ -90,7 +90,7 @@ body {
 }
 
 .gif_container img {
-    max-width: 44vw;
+    max-width: 36vw;
     height: auto;
 }
 
