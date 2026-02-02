@@ -89,10 +89,8 @@ body {
 }
 
 .itinerary-link {
-    position: fixed;
-    bottom: 60px;
-    left: 50%;
-    transform: translateX(-50%);
+    display: inline-block;
+    margin-top: 20px;
     font-family: 'Nunito';
     font-size: 18px;
     color: #4e6eff;
