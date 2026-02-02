@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    min-height: 100svh;
     background-color: #CBE6EF;
 }
 
@@ -86,6 +87,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.gif_container img {
+    max-width: 70vw;
+    height: auto;
 }
 
 .itinerary-link {
