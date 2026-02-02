@@ -41,18 +41,18 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
-    margin-top: 16px;
+    margin-top: 8px;
     margin-bottom: 0;
 }
 
 .main-message {
     font-size: 30px;
-    margin-top: -4px;
+    margin-top: -10px;
 }
 
 .save-date {
     font-size: 30px;
-    margin-top: 25px;
+    margin-top: 14px;
 }
 
 .buttons {
@@ -90,13 +90,13 @@ body {
 }
 
 .gif_container img {
-    max-width: 70vw;
+    max-width: 55vw;
     height: auto;
 }
 
 .itinerary-link {
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 12px;
     font-family: 'Nunito';
     font-size: 18px;
     color: #4e6eff;
